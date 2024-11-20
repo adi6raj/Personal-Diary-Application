@@ -6,6 +6,6 @@ A simple and elegant personal diary application built with Python's `tkinter`. T
 - **Modern UI**: A clean and user-friendly interface with a dark theme.
 - **Confirmation Messages**: Provides real-time feedback on successful saves or warnings for empty entries.
 
-##Output Screenshot
+## Output Screenshot
 
 ![output](https://github.com/user-attachments/assets/7c4bf07f-7858-45f3-8a6d-568aecccbf1c)
