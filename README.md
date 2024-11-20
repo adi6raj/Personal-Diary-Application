@@ -9,3 +9,12 @@ A simple and elegant personal diary application built with Python's `tkinter`. T
 ## Output Screenshot
 
 ![output](https://github.com/user-attachments/assets/7c4bf07f-7858-45f3-8a6d-568aecccbf1c)
+## Usage 📚
+Launch the application.
+Write your diary entry in the provided text area.
+Click the Save Entry button to save your entry. The entry will be saved as a .txt file with the current date in the filename (e.g., Diary_2024-11-20.txt).
+
+## Acknowledgments 🙏
+Built using Python's tkinter.
+Inspired by the need for a simple and functional personal diary app.
+
